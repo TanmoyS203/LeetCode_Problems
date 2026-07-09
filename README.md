@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TanmoyS203/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/TanmoyS203/LeetCode_Problems/tree/master/0027-remove-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TanmoyS203/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TanmoyS203/LeetCode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TanmoyS203/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TanmoyS203/LeetCode_Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
